@@ -6,7 +6,7 @@ Design and implement a single screen app that displays information about a ficti
 
 **Fooduan** is a food app that allows one to make orders and payment for burgers and hotdogs. This project is in its early state of development.
 
-
+<a href="https://imgflip.com/gif/2eqlea"><img src="https://i.imgflip.com/2eqlea.gif" title="made at imgflip.com"/></a>
 
 **Hint:** If you encounter an installation error, Click Build tab ---> Clean Project ---> Run it again :)
 
