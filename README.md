@@ -16,3 +16,5 @@ Design and implement a single screen app that displays information about a ficti
 
 **Social media handles:** 
 Facebook: @fooduangh | Twitter: @AnDroid_Qpid
+
+**Link to the apk:** https://drive.google.com/open?id=1VgLsTp_nHx-pb-CaMPAd21jItps-2wRp
